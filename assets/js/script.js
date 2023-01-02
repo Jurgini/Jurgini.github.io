@@ -11,7 +11,7 @@ function init() {
 
 function nextPage(e) {
     e.preventDefault();
-    location.href = 'https://jurgini.github.io/main/secret.html';
+    location.href = 'https://jurgini.me/secret.html';
 }
 
 
