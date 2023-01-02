@@ -1,0 +1,41 @@
+* {
+
+}
+body {
+    margin: auto;
+    background-color: #15202b;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    font-size: 1.2rem;
+    font-family: Arial, sans-serif;
+    background-color: #15202b;
+    color: white;
+}
+/* background-color: rgba(29, 155, 240, 0.6); */
+
+header div {
+    text-align: center;
+    margin: 2rem 1rem 2rem 1rem;
+    background-color: #1e2732;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgba(29, 155, 240, 1);
+}
+
+video {
+    margin: 1rem 2rem 0 15%;
+
+    width: 70%;
+}
+
+h1 {
+    font-size: 2rem;
+}
