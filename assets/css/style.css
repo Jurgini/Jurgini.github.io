@@ -139,7 +139,7 @@ body {
 /* Button */
 .button-container {
   position: absolute;
-  bottom: 14rem; /* Position both elements together */
+  margin-top: 25rem; /* Position both elements together */
   display: flex;
   flex-direction: column; /* Stack button and label vertically */
   align-items: center; /* Center align both elements */
