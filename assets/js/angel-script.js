@@ -19,23 +19,28 @@ let index = 0;
 startBtn.addEventListener('click', () => {
   startBtn.disabled = true;
   console.log(clickCount);
-  if (clickCount < 17) {
-    const buttonTexts = ["ANGEEEL",
-      "I have something to tell you...",
+  if (clickCount < 22) {
+    const buttonTexts = ["ANGEEL 🪽",
+      "I have something to tell you 😋",
+      "This is for you, my little Jinx",
+      "You're a really amazing person",
+      "I adoreee the way you are",
+      "Your laugh makes me go crazyy 😁",
+      "Love our shared interests",
+      "I love your adorable face too 🙂",
+      "Really all i want is... ",
+      "for you to be happy 😃",
+      "I really like you 😊",
+      "And...",
       "Im scared you won't feel the same way",
       "But im going to tell you anywayyy",
-      "You're a really amazing person",
-      "I adore the way you are",
-      "Love your little laugh :)",
-      "Amazed by your hobbies and interests",
-      "And i Love your cute little face too hihi",
-      "All i want is for you to be happy :)",
-      "There are so many more reasons i like you",
-      "And... i've been feeling like...",
-      "I'm falling in love with you",
+      " i've been feeling like...",
+      "I'm falling in love with you ❤️",
+      "hehe my heart beats so fast",
+      "Thinking of you 🥰",
       "I just wanted to let you know how i feel",
       "I don't want you to feel pressured",
-      "And since you're here already",
+      "Also since you're here already",
       "There's something i wanted to ask you.."];
 
     // Fade out the current text
@@ -59,7 +64,7 @@ startBtn.addEventListener('click', () => {
 
   }
 
-  else if (clickCount >= 18) {
+  else if (clickCount >= 23) {
 
     textElement.textContent = "YAAAYYYYY ❤️❤️❤️";
 
